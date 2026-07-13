@@ -78,6 +78,7 @@ The Printer Services is now availabe. The following is the step by step demonstr
 <p align="center">
 <img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter11.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
+<br /> 
 
 - <b>Congifuring Group Membership</b> <br/>
 The head of the Marketing Department requested to add the new hire added to their group. I right-click on the new user and choose properties.  <br />
