@@ -96,6 +96,7 @@ Next is the step by step process of sharing the printer.  <br />
 </p>
 <br />
 Printer has been added successfully. <br />
+<br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter15.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
