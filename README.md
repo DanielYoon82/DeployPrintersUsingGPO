@@ -32,7 +32,7 @@ First, to access the Printer Services, installation needs to occur. Adding, choo
 </p>
 
 - <b>Adding Printer on Server Manager</b> <br />
-The following is the step by step demonstration on how to add the printer in Server Manager. <br />
+The Printer Services is now availabe. The following is the step by step demonstration on how to add the printer in Server Manager. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter1.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
