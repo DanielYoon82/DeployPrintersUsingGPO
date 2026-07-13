@@ -1,7 +1,7 @@
-<h1>Home Lab - Deploy Printer Using GPO in Active Directory</h1>
+<h1>Home Lab - Deploying Printer Using Group Policy (GPO) in Active Directory</h1>
 
 <h2>Description</h2>
-In this virtual machine I demonstrate user management, unlocking an account, and password reset in Active Directory.  
+In this virtual machine I demonstrate deploying a printer and assigning an OU using GPO. 
 <br />
 
 
@@ -16,18 +16,15 @@ In this virtual machine I demonstrate user management, unlocking an account, and
 <h2>Program walk-through:</h2>
 
 
-- <b>Create New User Account</b> <br />
-John Doe is a new hire for the head of the Sales Department. I am assigned to create him as a new user for onboarding. First, I right-click on the Sales OU, then select user.
+- <b>Adding Printer for Print Services on Server Manager</b> <br />
+First, to access the Printer Services, installation needs to occur. Adding, choosing the proper options, and installing has been done.
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser1.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinteradd1.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> 
-
-I proceed with inputting his name and logon name (according to policies for this simulated company). <br />
-<br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser2.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinteradd2.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
