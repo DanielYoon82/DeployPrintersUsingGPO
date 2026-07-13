@@ -80,11 +80,28 @@ The Printer Services is now availabe. The following is the step by step demonstr
 </p>
 <br /> 
 
-- <b>Congifuring Group Membership</b> <br/>
-The head of the Marketing Department requested to add the new hire added to their group. I right-click on the new user and choose properties.  <br />
+- <b>Sharing the Printer</b> <br/>
+Next is the step by step process of sharing the printer.  <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser4.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter12.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter13.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter14.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Printer has been added successfully. <br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter15.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter12.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
