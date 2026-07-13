@@ -27,6 +27,9 @@ First, to access the Printer Services, installation needs to occur. Adding, choo
 <img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinteradd2.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinteradd3.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
 
 A temporary password is set for the user in which they must change with their own unique one thereafter. Setting up the new user is now complete. <br />
 <br />
