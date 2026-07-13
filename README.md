@@ -16,7 +16,7 @@ In this virtual machine I demonstrate deploying a printer and assigning an OU us
 <h2>Program walk-through:</h2>
 
 
-- <b>Adding Printer for Print Services on Server Manager</b> <br />
+- <b>Creating Print Services on Server Manager</b> <br />
 First, to access the Printer Services, installation needs to occur. Adding, choosing the proper options, and installing has been done.
 <br />
 <p align="center">
@@ -31,12 +31,58 @@ First, to access the Printer Services, installation needs to occur. Adding, choo
 <img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinteradd3.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 
-A temporary password is set for the user in which they must change with their own unique one thereafter. Setting up the new user is now complete. <br />
+- <b>Adding Printer on Server Manager</b> <br />
+The following is the step by step demonstration on how to add the printer in Server Manager. <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser3.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter1.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter2.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter3.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter4.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter5.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter6.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter7.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter8.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter9.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter10.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter11.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter6.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+</p>
 
 - <b>Congifuring Group Membership</b> <br/>
 The head of the Marketing Department requested to add the new hire added to their group. I right-click on the new user and choose properties.  <br />
