@@ -17,7 +17,7 @@ In this virtual machine I demonstrate deploying a printer and assigning an OU us
 
 
 - <b>Creating Print Services on Server Manager</b> <br />
-First, to access the Printer Services, installation needs to occur. Adding, choosing the proper options, and installing has been done.
+First, to access the Printer Services, installation needs to occur. Adding, choosing the proper options, and installation has been executed.
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinteradd1.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
