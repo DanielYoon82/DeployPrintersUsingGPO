@@ -81,7 +81,7 @@ The Printer Services is now availabe. The following is the step by step demonstr
 <br /> 
 
 - <b>Sharing the Printer</b> <br/>
-Next is the step by step process of sharing the printer.  <br />
+Next, is the step by step process of sharing the printer.  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter12.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
@@ -95,28 +95,46 @@ Next is the step by step process of sharing the printer.  <br />
 <img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter14.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
 Printer has been added successfully. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter15.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+- <b>Creating GPO and Assigning Access</b> <br/>
+Next is a demonstration on integrating GPO to assign an OU.  <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter12.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter17.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter19.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter20.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter21.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter22.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-The "Member Of" tab was chosen then a group added. <br />
+- <b>Confirming Printer Deployment</b> <br/>
+Finally, confirmation using RDP that user has access to the printer. The user is accessed remotely using the proper credentials.  <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser5.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter23.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-
-"Check Names" option was chosen for marketing to verify the group was correct completing group configuration.  <br />
-<br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser6.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/DeployPrintersUsingGPO/blob/main/image/Deployprinter24.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
